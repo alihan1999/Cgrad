@@ -1,0 +1,3 @@
+/home/oem/Desktop/the path/prac/Cgrad/Build/CMakeFiles/Cgrad.dir
+/home/oem/Desktop/the path/prac/Cgrad/Build/CMakeFiles/edit_cache.dir
+/home/oem/Desktop/the path/prac/Cgrad/Build/CMakeFiles/rebuild_cache.dir
